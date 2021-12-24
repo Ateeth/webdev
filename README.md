@@ -6,6 +6,5 @@ i) devdocs.io
 ii) developee.mozilla.org
 iii) w3schools.com
 
-
-html comment tages
-<!-- COMMENT TAGS --> 
+Emmet cheatsheet which have lot of shortcuts to make develop html css easier
+https://docs.emmet.io/cheat-sheet/
