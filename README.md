@@ -8,3 +8,8 @@ iii) w3schools.com
 
 Emmet cheatsheet which have lot of shortcuts to make develop html css easier
 https://docs.emmet.io/cheat-sheet/
+
+
+Note <em> tag can be used instead of <i> tag as <i> italizises text but em conveys to user it is italisiced
+  
+Also <strong> can be used instead of <b> similar reason as above <strong> conveys the text is important
