@@ -16,6 +16,8 @@ Also strong can be used instead of b similar reason as above strong conveys the 
 
 For Color palletes go to  colorhunt.co
 
+
+TO CENTER ELEMENTS IN CSS
 Note for cenetering elements like h1 and p we can use margin : auto ; which horizontally centers the content of the element
 
-Else we can put in the body text-align : center ; 
+Else we can put in the body text-align : center ; This will center all elements that dont have a user defined width
