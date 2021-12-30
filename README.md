@@ -23,3 +23,5 @@ Note for cenetering elements like h1 and p we can use margin : auto ; which hori
 Else we can put in the body text-align : center ; This will center all elements that dont have a user defined width
 
 For variety of fonts go to fonts.google.com
+
+To look for icons : www.flaticon.com
