@@ -25,3 +25,5 @@ Else we can put in the body text-align : center ; This will center all elements 
 For variety of fonts go to fonts.google.com
 
 To look for icons : www.flaticon.com
+
+To look for gifs : www.giphy.com
