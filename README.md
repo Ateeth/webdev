@@ -35,3 +35,5 @@ For dynamic size use em unit , 1em = 16px
 Also Keep in mind em is inherited from parent for example if body we give 2 em and h1 as 5 em. Mostly the h1 is aldready a part of the body so resultant size h1 = 2em + 5em = 7em as it inherits the 2em from the body font size and is 5 em with respect to it so overall 7em. Same is applicablt for % measurement so keep in  mind when building a website
 
 To avoid such confusion use rem unit. Same as em but the font size is no longer inherited from parent element instead it is relative till root. Kinda rem is like em in a static way
+
+rem is actually root em
