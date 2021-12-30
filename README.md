@@ -29,3 +29,4 @@ To look for icons : www.flaticon.com
 To look for gifs : www.giphy.com
 
 For dynamic size use em unit , 1em = 16px
+Also Keep in mind em is inherited for example if body we give 2 em and h1 as 5 em. Mostly the h1 is aldready a part of the body so resultant size h1 = 2em + 5em = 7em as it inherits the 2em from the body font size and is 5 em with respect to it so overall 7em
