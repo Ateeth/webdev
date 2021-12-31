@@ -45,3 +45,5 @@ ui-patterns.com is very popular site to see how others have solved few design pr
 dribble.com used to see web designs of other creators
 
 Codeply file to understand about responsive grids bootstrap : https://www.codeply.com/p/gGAW4KgOrL
+
+For icons and logos use : https://fontawesome.com/
