@@ -43,3 +43,5 @@ https://css3buttongenerator.com/ to generate buttons
 ui-patterns.com is very popular site to see how others have solved few design problems
 
 dribble.com used to see web designs of other creators
+
+Codeply file to understand about responsive grids bootstrap : https://www.codeply.com/p/gGAW4KgOrL
