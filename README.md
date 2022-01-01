@@ -49,3 +49,4 @@ Codeply file to understand about responsive grids bootstrap : https://www.codepl
 For icons and logos use : https://fontawesome.com/
 
 Prefer a humanist font for readability
+An option is headings can be serif content keep it sans serif
