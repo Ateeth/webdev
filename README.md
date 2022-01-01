@@ -47,3 +47,5 @@ dribble.com used to see web designs of other creators
 Codeply file to understand about responsive grids bootstrap : https://www.codeply.com/p/gGAW4KgOrL
 
 For icons and logos use : https://fontawesome.com/
+
+Prefer a humanist font for readability
